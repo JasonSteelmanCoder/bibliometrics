@@ -3,7 +3,7 @@ font_sizes = [55,35.08361204013378,26.75585284280936,20,26.65551839464883,22.943
 new_font_sizes = []
 
 for num in font_sizes:
-    new_font_sizes.append(num * 1.3)
+    new_font_sizes.append(num * 1.4)
 
 print(new_font_sizes)
 
